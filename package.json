@@ -4,7 +4,12 @@
   "description": "",
   "main": "server/server.js",
   "scripts": {
+    "start": "node server/server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amandareilly/data-processing.git"
   },
   "author": "Amanda Reilly",
   "license": "UNLICENSED",
